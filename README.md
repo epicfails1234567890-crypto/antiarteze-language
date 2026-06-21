@@ -61,4 +61,5 @@ Contar un archivo con la variable permanente 'a':
 load a
 a=a+1
 write a
+save a
 ```
