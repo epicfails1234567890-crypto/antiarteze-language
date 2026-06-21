@@ -6,7 +6,7 @@ Ejemplos de uso:
 
 Escribir una pregunta:
 ```
-write "Hi! What's your name?:
+write "Hi! What's your name?:"
 read a
 write "Hello "+a
 ```
