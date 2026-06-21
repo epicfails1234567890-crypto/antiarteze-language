@@ -42,3 +42,16 @@ func mayor5 x {
 }
 console.log(mayor5 a)
 ```
+
+Escribir con el if para ver si es igual:
+```
+read a
+func igual5 x {
+    if 5=int(x){
+        return "yes"
+    }else{
+        return "no"
+    }
+}
+console.log(igual5 a)
+```
