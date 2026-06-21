@@ -1,6 +1,6 @@
 # antiarteze-language
 
-Lenguaje mas sencillo q JS, PY y GML:
+Lenguaje mas sencillo q JS, PY y GML juntos:
 
 Ejemplos de uso:
 
