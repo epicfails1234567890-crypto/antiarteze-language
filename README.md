@@ -12,7 +12,7 @@ En vez de hacer `for(i=0;i<5;i++){}`, solo se limita a: `for i=0 i<5 i++ {}` par
 
 Ejemplos de uso:
 
-Código base:
+Código base => Imprimir algo:
 ```
 write "Hello world!"
 ```
