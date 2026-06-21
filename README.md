@@ -2,9 +2,9 @@
 
 Lenguaje mas sencillo q JS, PY y GML juntos:
 
-
-
 El objetivo es q sea usado con poco esfuerzo y más empatía este script.
+
+Recuerden descargar el archivo .js de esta página, el de mayor número detrás de ".js", y una vez descargarlo irle con la terminal a la carpeta donde este el archivo, la de descarga, y meter el comando `node 70.js` (En caso de q 70.js sea la maxima version del script, y si les salta error instalar los paquetes q vienen.) y finalmente podrán ejecutarlo, q yo recuerde por el momento tengo solo 1 paquete q es el prompt de consola de nodejs, na mas.
 
 En vez de hacer `for(i=0;i<5;i++){}`, solo se limita a: `for i=0 i<5 i++ {}` para q sea mas facil de leer (Cuidado con los espacios).
 
