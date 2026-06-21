@@ -4,6 +4,12 @@ Lenguaje mas sencillo q JS, PY y GML juntos:
 
 Ejemplos de uso:
 
+Escritura mínima de precicisión:
+```
+write "Hello world!"
+```
+
+
 Escribir una pregunta:
 ```
 write "Hi! What's your name?:"
