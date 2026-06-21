@@ -4,6 +4,12 @@ Lenguaje mas sencillo q JS, PY y GML juntos:
 
 Ejemplos de uso:
 
+Escribir una pregunta:
+```
+read a
+write "Hello "+a
+```
+
 Escribir con el comando write tres cadenas de texto.
 ```
 write "1"
