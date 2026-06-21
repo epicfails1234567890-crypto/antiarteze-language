@@ -1,6 +1,8 @@
 # antiarteze-language
 
-Ejemplos:
+Lenguaje mas sencillo q JS, PY y GML:
+
+Ejemplos de uso:
 
 Escribir con el comando write tres cadenas de texto.
 ```
