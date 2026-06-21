@@ -87,9 +87,9 @@ write a
 save a
 ```
 
-Crear una ventana de 200 ancho y 200 alto:
+Crear una ventana de 200 ancho y 200 alto y el nombre "hola mundo":
 ```
-window 200 200
+window 200 200 "hola mundo"
 ```
 
 Y por supuesto, mucho mejor q el sujashcript de arteze, q es un boraita q de a poco le llega a lo de slender: 0 creatividad 100000000000 visión abstracta y pachango pachango y bla bla bla... 🤡🤡🤡😈😈😈
