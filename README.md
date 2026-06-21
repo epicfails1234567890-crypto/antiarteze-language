@@ -29,3 +29,16 @@ func mayor5 x {
 }
 console.log(mayor5 a)
 ```
+
+Escribir con el if:
+```
+read a
+func mayor5 x {
+    if 5<x{
+        return "yes"
+    }else{
+        return "no"
+    }
+}
+console.log(mayor5 a)
+```
