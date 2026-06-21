@@ -6,7 +6,7 @@ Lenguaje mas sencillo q JS, PY y GML juntos:
 
 El objetivo es q sea usado con poco esfuerzo y más empatía este script.
 
-En vez de hacer `for(i=0;i<5;i++){}`, solo se limita a: `for i=0 i<5 i++ {}` para q sea mas facil de leer.
+En vez de hacer `for(i=0;i<5;i++){}`, solo se limita a: `for i=0 i<5 i++ {}` para q sea mas facil de leer (Cuidado con los espacios).
 
 
 
