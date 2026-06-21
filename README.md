@@ -55,3 +55,10 @@ func igual5 x {
 }
 console.log(igual5 a)
 ```
+
+Contar un archivo con la variable permanente 'a':
+```
+load a
+a=a+1
+write a
+```
