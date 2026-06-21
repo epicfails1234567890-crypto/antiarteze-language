@@ -5,21 +5,21 @@ Lenguaje mas sencillo q JS, PY y GML juntos:
 Ejemplos de uso:
 
 Escribir con el comando write tres cadenas de texto.
-```
+```js
 write "1"
 write "2"
 write "3"
 ```
 
 Escribir con el for:
-```
+```js
 for i=0 i<10 i++{
     write i
 }
 ```
 
 Escribir con func:
-```
+```js
 read a
 func mayor5 x {
     val = int(x)
@@ -33,7 +33,7 @@ console.log(mayor5 a)
 ```
 
 Escribir con el if:
-```
+```js
 read a
 func mayor5 x {
     if 5<x{
@@ -46,7 +46,7 @@ console.log(mayor5 a)
 ```
 
 Escribir con el if para ver si es igual:
-```
+```js
 read a
 func igual5 x {
     if 5=int(x){
