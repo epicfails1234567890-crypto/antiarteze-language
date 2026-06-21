@@ -4,7 +4,7 @@ Lenguaje mas sencillo q JS, PY y GML juntos:
 
 Ejemplos de uso:
 
-Escritura mínima de precicisión:
+Escritura base o primeriza:
 ```
 write "Hello world!"
 ```
