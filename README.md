@@ -87,5 +87,16 @@ write a
 save a
 ```
 
+Codigo q se lanza al cliente para sincronizarlo:
+```
+// 1. Iniciar servidor en el puerto 8880
+listen 8880 
+
+// 2. Definir lo que se publica (usa comillas)
+txt = "<h1>A</h1>"
+
+// 3. Publicar (usando la instancia del listen anterior)
+publish 9990 txt
+```
 
 Y por supuesto, mucho mejor q el sujashcript de arteze, q es un boraita q de a poco le llega a lo de slender: 0 creatividad 100000000000 visión abstracta y pachango pachango y bla bla bla... 🤡🤡🤡😈😈😈
