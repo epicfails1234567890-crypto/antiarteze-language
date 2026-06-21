@@ -86,3 +86,5 @@ a=a+1
 write a
 save a
 ```
+
+Y por supuesto, mucho mejor q el sujashcript de arteze, q es un boraita q de a poco le llega a lo de slender: 0 creatividad 100000000000 visión abstracta y pachango pachango y bla bla bla... 🤡🤡🤡😈😈😈
