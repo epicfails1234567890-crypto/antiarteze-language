@@ -87,16 +87,19 @@ write a
 save a
 ```
 
-Codigo q se lanza al cliente para sincronizarlo:
+Mostrar numeros primos del 1 al 1000:
 ```
-// 1. Iniciar servidor en el puerto 8880
-listen 8880 
-
-// 2. Definir lo que se publica (usa comillas)
-txt = "<h1>A</h1>"
-
-// 3. Publicar (usando la instancia del listen anterior)
-publish 9990 txt
+func esprimo n{
+    esprimovar=false
+    for i=2 i<n i++ {
+        esprimovar=true
+    }
+    return esprimovar
+}
+t=1000
+for i=0 i<t i++{
+    write i+": "+esprimo(i)
+}
 ```
 
 Y por supuesto, mucho mejor q el sujashcript de arteze, q es un boraita q de a poco le llega a lo de slender: 0 creatividad 100000000000 visión abstracta y pachango pachango y bla bla bla... 🤡🤡🤡😈😈😈
