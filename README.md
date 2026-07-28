@@ -102,4 +102,34 @@ for i=0 i<t i++{
 }
 ```
 
+Crear un array ordenado de 100 numeros de 2 cifras:
+```
+array={}
+func fillRandom array{
+    array={}
+    for i=0 i<100 i++{
+        array[i]={data:Math.floor(Math.random()*100)}
+    }
+    aux1=0
+    aux2=0
+    for i=0 i<100 i++{
+        for j=0 j<100 j++{
+            try{
+                if array[j].data<array[j+1].data{
+                    aux1=array[j].data
+                    aux2=array[j+1].data
+
+                    array[j].data=aux2
+                    array[j+1].data=aux1
+                }
+            }catch(e){}
+        }
+    }
+    for i=0 i<100 i++{
+        write array[i].data
+    }
+}
+fillRandom()
+```
+
 Y por supuesto, mucho mejor q el sujashcript de arteze, q es un boraita q de a poco le llega a lo de slender: 0 creatividad 100000000000 visión abstracta y pachango pachango y bla bla bla... 🤡🤡🤡😈😈😈
