@@ -131,9 +131,11 @@ func fillRandom array{
             }catch(e){}
         }
     }
+    cadena=""
     for i=0 i<100 i++{
-        write array[i].data
+        cadena+=" "+array[i].data
     }
+    write cadena
 }
 fillRandom()
 ```
