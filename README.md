@@ -87,7 +87,7 @@ write a
 save a
 ```
 
-Mostrar numeros primos del 1 al 1000:
+Mostrar numeros primos del 1 al 100:
 ```
 func esprimo n{
     esprimovar=false
