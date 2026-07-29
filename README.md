@@ -98,12 +98,14 @@ func esprimo n{
     }
     return esprimovar
 }
-t=100
+t=1000
+cadena=""
 for i=0 i<t i++ {
     if !esprimo(i){
-        write i
+        cadena+=" "+i
     }
 }
+write cadena
 ```
 
 Crear un array ordenado de 100 numeros de 2 cifras:
