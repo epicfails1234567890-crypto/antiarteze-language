@@ -91,14 +91,18 @@ Mostrar numeros primos del 1 al 1000:
 ```
 func esprimo n{
     esprimovar=false
-    for i=2 i<n i++ {
-        esprimovar=true
+    for i=2 i<n i++{
+        if n%i==0{
+            esprimovar=true
+        }
     }
     return esprimovar
 }
-t=1000
-for i=0 i<t i++{
-    write i+": "+esprimo(i)
+t=100
+for i=0 i<t i++ {
+    if !esprimo(i){
+        write i+": "+esprimo(i)
+    }
 }
 ```
 
