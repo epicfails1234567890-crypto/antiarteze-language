@@ -101,7 +101,7 @@ func esprimo n{
 t=100
 for i=0 i<t i++ {
     if !esprimo(i){
-        write i+": "+esprimo(i)
+        write i
     }
 }
 ```
